@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484159398934",
+    "project_id": "baatcheet-7777",
+    "storage_bucket": "baatcheet-7777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484159398934:android:9660b7e9a201b2fd1b8137",
+        "android_client_info": {
+          "package_name": "com.chat.baatcheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvpBJilB05asF6jOySq03woO8XZjYhis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
